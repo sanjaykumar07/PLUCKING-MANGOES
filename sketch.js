@@ -6,8 +6,8 @@ const Constraint = Matter.Constraint;
 
 
 function preload() {
-  bg = loadImage("sprites/bg.jpg");
-  boyImage = loadImage("sprites/boy.png");
+  bg = loadImage("bg.jpg");
+  boyImage = loadImage("boy.png");
 }
 
 function setup() {
