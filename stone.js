@@ -11,7 +11,7 @@ class stone {
     World.add(world, this.body);
     this.width = width;
     this.height = height;
-    this.image = loadImage("sprites/stone.png");
+    this.image = loadImage("stone.png");
   }
 
   display() {
