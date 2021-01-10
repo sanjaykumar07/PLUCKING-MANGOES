@@ -4,7 +4,7 @@ class tree {
       isStatic: true,
     };
     this.tree = Bodies.rectangle(x, y, options);
-    this.image = loadImage("sprites/tree.png");
+    this.image = loadImage("tree.png");
   }
   display() {
     imageMode(CENTER);
